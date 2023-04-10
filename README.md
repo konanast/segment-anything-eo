@@ -11,7 +11,7 @@ Earth observation tools for Meta AI Segment Anything
 - process GeoTIFF files with Meta AI Segment Anything models
 - save predicted results as GeoTIFF raster data and GPKG vector data
 
-and little a bit more
+and a little bit more
 
 ### Usage:
 - colab notebook https://colab.research.google.com/drive/1RC1V68tD1O-YissBq9nOvS2PHEjAsFkA?usp=share_link
@@ -33,4 +33,4 @@ BSD-2-Clause license
 
 Other code MIT license
 
-***Segment Anything and tms2geotiff copied to this repo 9 Apr 2022, you could update them to more recent versions if needed***
+***Segment Anything and tms2geotiff copied to this repo 9 Apr 2023, you could update them to more recent versions if needed***
